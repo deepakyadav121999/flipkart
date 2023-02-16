@@ -1,0 +1,35 @@
+.boxi{
+    display: flex;
+    flex-direction: column;
+    height: 350px;
+    width: 220px;
+    align-items: center;
+    justify-content: center;
+}
+.bxname{
+    font-family: sans-serif;
+    font-weight: 550;
+  
+}
+.bxprice{
+    font-family: sans-serif;
+    font-weight: 400;
+    color: green;
+}
+.bxmodel{
+    font-family: sans-serif;
+    color: grey;
+}
+.forimage{
+    height: 200px;
+    cursor: pointer;
+}
+.fortext{
+    text-align: center;
+    cursor: pointer;
+    align-items: center;
+    justify-content: center;
+}
+.forimage:hover{
+    height: 210px;
+}

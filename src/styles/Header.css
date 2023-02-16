@@ -1,0 +1,100 @@
+
+.header1{
+    background: rgb(44, 107, 224);
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+.first1 > img{
+    width: 75px;
+    object-fit: contain;
+}
+.first1{
+ display: flex;
+ flex-direction: column;
+ align-items: center;
+ padding-left: 120px;
+}
+.explore1{
+    font-size: 11px;
+    color: white;
+   font-style: italic;
+   font-family: sans-serif;
+   font-weight: 700;
+}
+.plus1{
+    font-size: 11px;
+    color:rgb(241, 241, 10);
+   font-style: italic;
+   font-family: sans-serif;
+   font-weight: 700;
+}
+.first11 >span>img{
+    width: 10px;
+}
+.second1{
+    display: flex;
+    align-items: center;
+    background-color: white;
+    border-radius: 3px;
+    color:  rgb(44, 107, 224);
+}
+.second1>.MuiSvgIcon-root{
+    cursor: pointer;
+}
+.second1>input{
+    border: none;
+    outline: none;
+    width: 400px;
+    padding: 10px 15px ;
+    border-radius: 3px;
+    height: 35px;
+}
+.third1>button{
+    color:  rgb(44, 107, 224);
+    border: none;
+    outline: none;
+    width: 120px;
+    padding: 3px 15px ;
+   font-size: 15px;
+   cursor: pointer;
+   font-family: sans-serif;
+   font-weight: 700;
+   height: 30px;
+   background-color: white;
+  
+}
+.fourth1{
+ display: flex;
+ align-items: center;
+ font-size: 15px;
+ cursor: pointer;
+ font-family: sans-serif;
+ font-weight: 700;
+ color: white;
+}
+.extra1{
+    font-size: 15px;
+    cursor: pointer;
+    font-family: sans-serif;
+    font-weight: 700;
+    color: white;
+}
+.five1{
+    display: flex;
+    align-items: center;
+    color: white;
+    cursor: pointer;
+    font-family: sans-serif;
+    font-weight: 700;
+    padding-right: 120px;
+    
+}
+.header1{
+   height: 55px;
+   width: 100% ;
+   text-align: center;
+}
+.xx{
+    margin-top: 15px;
+}

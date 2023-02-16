@@ -1,0 +1,44 @@
+.loginin{
+    display: flex;
+    align-items: center;
+   
+    color:  rgb(44, 107, 224);
+    cursor: pointer;
+  
+}
+.txt1{
+    color: black;
+    font-weight: 400;
+    font-family: sans-serif;
+    margin-top: 15px;
+}
+.loginin>.MuiSvgIcon-root{
+    margin-right: 10px;
+}
+.login>hr{
+    margin-left: -10px;
+    margin-top: 0px;
+    margin-bottom: 0px;
+    width: 108.5%;
+    height: 0.5px;
+    background-color: rgb(99, 97, 97);
+    border: none;
+}
+.new{
+    color: rgb(48, 46, 46);
+    font-family: sans-serif;
+    font-size: 15px;
+    font-weight: 400;
+}
+.sign{
+    font-size: 15px;
+    font-family: sans-serif;
+    font-weight: 600;
+    cursor: pointer;
+}
+.login{
+    padding: 0 25px;
+}
+.loginin:hover{
+    background-color: aliceblue;
+}

@@ -1,0 +1,25 @@
+
+.item1{
+    display: flex;
+    background-color:white;
+   height: 110px;
+   align-items: center;
+   justify-content: space-around;
+   text-align: center;
+ 
+
+}
+.img11{
+    height: 50px;
+    width: 50px;
+    cursor: pointer;
+}
+.tx{
+    color: rgb(39, 36, 36);
+    font-weight: 500;
+    font-family: sans-serif;
+    cursor: pointer;
+}
+.tx:hover{
+    color: rgb(44, 107, 224);
+}

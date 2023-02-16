@@ -1,0 +1,25 @@
+.more_in{
+    display: flex;
+    align-items: center;
+   color:  rgb(44, 107, 224);
+}
+.txt{
+    color: rgb(54, 52, 52);
+    font-weight: 400;
+    margin-top: 15px;
+}
+.more>hr{
+        margin-left: -10px;
+        margin-top: 0px;
+        margin-bottom: 0px;
+        width: 108.5%;
+        height: 0.5px;
+        background-color:  rgb(99, 97, 97);
+        border: none;
+}
+.more{
+    padding: 0 25px;
+}
+.more_in:hover{
+    background-color: aliceblue;
+}
