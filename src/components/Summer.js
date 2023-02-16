@@ -4,6 +4,7 @@ import React from 'react'
  import Box1 from'./Box1';
 function Summer() {
   return (
+    <div className="summer">
     <div className='summer_item'>
        <div>
         <Box1 para1={"Shop for a Cool"} para2={"Summer"}/>
@@ -44,6 +45,7 @@ function Summer() {
         />
        </div>
         
+        </div>
         </div>
   )
 }

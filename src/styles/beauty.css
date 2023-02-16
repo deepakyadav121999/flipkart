@@ -1,4 +1,11 @@
 .beauty_list{
     display: flex;
+    /* border-top: 0.01px solid rgb(204, 201, 201); */
     border-bottom: 0.01px solid rgb(204, 201, 201);
+    height: 350px;
+    background-color: white;
+}
+.beauty{
+ height: 365px;
+ background-color: whitesmoke;
 }

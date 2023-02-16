@@ -8,6 +8,8 @@ import ElectronicsItemlist from "./components/ElectronicsItemlist";
 
 import Beauty from "./components/Beauty";
 import Summer from "./components/Summer";
+import Sports from "./components/Sports";
+import Footer from "./components/Footer";
 function App() {
   return (
     <div className="App">
@@ -28,6 +30,12 @@ function App() {
         </div>
        <div className="summer">
         <Summer/>
+       </div>
+       <div className="sport">
+    <Sports/>
+       </div>
+       <div className="footer">
+        <Footer/>
        </div>
     </div>
   );

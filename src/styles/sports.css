@@ -1,0 +1,10 @@
+.sport_list{
+    display: flex;
+    background-color: white;
+    height: 350px;
+    border-bottom: 0.01px solid rgb(204, 201, 201);
+}
+.sports{
+    height: 365px;
+    background-color: whitesmoke;
+}

@@ -4,6 +4,7 @@ import "../styles/item_list.css"
 import Box1 from './Box1';
 function Itemlist() {
   return (
+    <div className="ecs">
     <div className="item_list">
          <div> <Box1 para1="Best of" para2="Electronics"/></div>
          <div> <Box image="https://rukminim1.flixcart.com/image/200/200/l12h1u80/cases-covers/back-cover/v/7/9/sgf235g-pat367-my-thing-original-imagcprak4yhdbh5.jpeg?q=70"
@@ -33,6 +34,7 @@ function Itemlist() {
            price="From 6500"
            model="ACER"
          /></div>
+       </div>
        </div>
   )
 }

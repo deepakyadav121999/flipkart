@@ -4,6 +4,7 @@ import Box1 from './Box1'
 import '../styles/beauty.css'
 function Beauty() {
   return (
+    <div className="beauty">
       <div className='beauty_list'>
         <div>
         <Box1 para1="Beauty, Food" para2 ="Toys & more"/>
@@ -45,6 +46,7 @@ function Beauty() {
    model="Explore Now"
         />
        </div>
+        </div>
         </div>
   )
 }
